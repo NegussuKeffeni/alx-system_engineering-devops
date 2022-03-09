@@ -1,2 +1,1 @@
-printf - print the sting in " "
-chmod +x - chang the file to excutable file
+Writing shell redirections commands and making them executable files
